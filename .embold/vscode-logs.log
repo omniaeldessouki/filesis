@@ -1,0 +1,19 @@
+2023-06-13 23:55:31 info: tempDirectory:/Users/momenelshamy/.vscode/extensions/embold-vscode.embold-0.1.5/temp
+2023-06-13 23:55:31 info: Extraction complete for source: /Users/momenelshamy/.vscode/extensions/embold-vscode.embold-0.1.5/resources/embold-scanner-archive.zip, destination: /Users/momenelshamy/.vscode/extensions/embold-vscode.embold-0.1.5/temp
+2023-06-13 23:55:31 info: Congratulations, your extension "Embold" is now active!
+2023-06-13 23:55:43 info: file:///Users/momenelshamy/Downloads/filesis/.AU.VhAwj
+2023-06-13 23:55:43 error: SQLITE_ERROR: no such table: issues
+2023-06-13 23:55:49 info: file:///Users/momenelshamy/Downloads/filesis/proj/css
+2023-06-13 23:55:49 info: file:///Users/momenelshamy/Downloads/filesis/proj/images
+2023-06-13 23:55:49 info: file:///Users/momenelshamy/Downloads/filesis/proj/webfonts
+2023-06-13 23:55:49 info: file:///Users/momenelshamy/Downloads/filesis/proj/index.html
+2023-06-13 23:55:49 error: SQLITE_ERROR: no such table: issues
+2023-06-13 23:55:49 error: SQLITE_ERROR: no such table: issues
+2023-06-13 23:55:49 error: SQLITE_ERROR: no such table: issues
+2023-06-13 23:55:49 error: SQLITE_ERROR: no such table: issues
+2023-06-13 23:55:54 info: file:///Users/momenelshamy/Downloads/filesis/proj
+2023-06-13 23:55:54 info: file:///Users/momenelshamy/Downloads/filesis/proj.zip
+2023-06-13 23:55:54 error: SQLITE_ERROR: no such table: issues
+2023-06-13 23:55:54 error: SQLITE_ERROR: no such table: issues
+2023-06-14 00:11:17 info: file:///Users/momenelshamy/Downloads/filesis/discount.svg
+2023-06-14 00:11:17 error: SQLITE_ERROR: no such table: issues
